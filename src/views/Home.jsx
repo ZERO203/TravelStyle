@@ -16,7 +16,7 @@ export default function Home() {
 
     return (
         <>
-            <h1>Home</h1>
+            <h1>Principal</h1>
             <Container>
                 <ProductsSlice data={data} columns={5} />
             </Container>
